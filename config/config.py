@@ -5,7 +5,6 @@ These are public endpoints and issuer URLs, not secrets.
 """
 
 import os
-import sys
 from collections.abc import Sequence
 from dataclasses import dataclass
 from difflib import get_close_matches
